@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/using-react-with-bem-named-css-zhW-ZYdOom](https://www.frontendmentor.io/solutions/using-react-with-bem-named-css-zhW-ZYdOom)
+- Live Site URL: [https://akaigyouhou.github.io/frontend-mentor-huddle-landing-page/](https://akaigyouhou.github.io/frontend-mentor-huddle-landing-page/)
 
 ## My process
 
