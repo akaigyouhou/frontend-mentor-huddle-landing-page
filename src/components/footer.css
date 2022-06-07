@@ -1,0 +1,58 @@
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+.footer__brands {
+    display: flex;
+    margin: 2.55em 0 2.5em;
+}
+
+.footer__brand {
+    margin: 0 0.33em;
+    cursor: pointer;
+}
+
+.brand_round {
+    border-radius: 50%;
+    border: 1px solid white;
+    display: flex;
+    padding: 0.4em 0.36em 0.32em;
+}
+
+.brand__icon > path{
+    fill: white;
+}
+
+@media (min-width: 800px) {
+    .footer {
+        justify-content: flex-end;
+        /* height: 12vh; */
+    }
+
+    .footer__brands {
+        margin: 1em 4.5em 0 0;
+    }
+
+    .footer__brand {
+        margin: 0 0.45em;
+    }
+
+    .brand__icon {
+        height: 1.2em;
+        width: 1.2em;
+    }
+
+    .brand_round {
+        padding: 0.6em;
+        border: 1.6px solid white;
+    }
+
+    .brand_round:hover > .brand__icon > path  {
+        fill: var(--Soft-Magenta);
+    }
+
+    .brand_round:hover {
+        border: 1.6px solid var(--Soft-Magenta);
+    }
+}
